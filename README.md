@@ -9,4 +9,4 @@ Research in regards to designing an traditional aircraft with the goal of minimi
 ### Optimization Problem Statement:
 ![image](https://github.com/magecliff96/Payback-Period-Optimization-Study/blob/master/optimization_problem_statement.bmp)
 
-#### Please check Payback_Period_Optimization.pdf for more details
+#### Please refer to Payback_Period_Optimization.pdf for more details
